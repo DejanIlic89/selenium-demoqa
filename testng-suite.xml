@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="spring-boot" parallel="tests" thread-count="2">
+    <test name="test-1">
+        <classes>
+            <class name="com.seavus.qa.seleniumdemoqa.testcase.PracticeFormTest" />
+        </classes>
+    </test>
+    <test name="test-2">
+        <classes>
+            <class name="com.seavus.qa.seleniumdemoqa.testcase.NavBarTest" />
+        </classes>
+    </test>
+</suite>
