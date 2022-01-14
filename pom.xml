@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
         <selenium.version>3.141.59</selenium.version>
-        <webdrivermanager.version>3.8.1</webdrivermanager.version>
+        <webdrivermanager.version>5.0.0</webdrivermanager.version>
         <testng.version>7.1.0</testng.version>
         <cucumber.version>5.6.0</cucumber.version>
     </properties>
